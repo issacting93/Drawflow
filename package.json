@@ -40,5 +40,9 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.2",
     "webpack": "^4.42.1"
+  },
+  "dependencies": {
+    "@sanity/client": "^2.21.3",
+    "@sanity/image-url": "^1.0.1"
   }
 }
